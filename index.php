@@ -1,2 +1,2 @@
-Hello from <?= 'master branch'?>
+Hello from <?= 'master branch 2'?>
 
